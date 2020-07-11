@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * Created by mrt on 2018/5/22.
+ * 提供请求，响应，session对象
  */
 public class BaseController {
     protected HttpServletRequest request;
